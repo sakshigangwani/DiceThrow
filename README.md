@@ -1,0 +1,2 @@
+# DiceThrow
+JavaScript Project
